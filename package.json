@@ -1,0 +1,39 @@
+{
+  "name": "michiko-md-v3",
+  "version": "3.0.0",
+  "description": "Advanced Multi users WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@vreden/youtube_scraper": "^1.2.9",
+    "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "adm-zip": "^0.5.10",
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "dictionary-en": "^3.2.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "ffmpeg-static": "^5.3.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^11.1.1",
+    "ky": "^1.14.3",
+    "moment-timezone": "^0.5.43",
+    "node-fetch": "^2.7.0",
+    "nspell": "^2.1.5",
+    "pino": "^8.15.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.32.2",
+    "telegraf": "^4.15.0",
+    "wa-sticker-formatter": "^4.4.4",
+    "whatsapp-rust-bridge": "^0.5.4",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^5.6.0",
+    "nodemon": "^3.0.1"
+  }
+}
