@@ -1,0 +1,8 @@
+node_modules/
+.env
+database/session/
+database/sessions/
+database/.fresh_pair
+database/.session_state.json
+database/runtime-state.json
+*.log
