@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/r47367.png" alt="Michiko MD Banner" width="100%" style="border-radius:12px" />
+<img src="https://i.ibb.co/q3QWtG1c/f92e780d22f0.jpg" alt="Michiko MD Banner" width="100%" style="border-radius:12px" />
 
 <br/>
 <br/>
