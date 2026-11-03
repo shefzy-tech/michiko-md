@@ -8,7 +8,7 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "@whiskeysockets/baileys": "npm:plogme@^1.0.6",
     "whatsapp-rust-bridge": "^0.5.4",
     "@vreden/youtube_scraper": "^1.2.9",
     "qrcode-terminal": "^0.12.0",
