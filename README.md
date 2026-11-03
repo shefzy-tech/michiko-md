@@ -33,7 +33,7 @@ Group tools · Economy · Games · Media tools · AI chat · Sticker maker · Gr
 >
 > - Use it responsibly and follow the terms of every service you connect it to.
 > - It is provided **as is**, without warranty. You are responsible for how you use your own deployment.
-> - ShefzyTech and Mr Shefzy are not liable for any loss or issue that results from using it.
+> - MICHIKO INC. and sir Shefzy are not liable for any loss or issue that results from using it.
 > - Intended for learning and personal use.
 
 ---
